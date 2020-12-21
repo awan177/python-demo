@@ -1,3 +1,2 @@
-# AircraftWars
-python课设飞机大战   
-基于pygame的实现
+# AircraftWars 
+基于Python的Pygame库实现的低配版飞机大战小游戏
